@@ -8,7 +8,7 @@
 - Created DAX measures for total claims, claim amount, fraud rate, and average customer age.
 - Designed 3 dashboard pages: Executive Summary, Claims Deep Dive, and Customer Insights.
 - Added SQL scripts, Power BI file, and dashboard screenshots for portfolio review.
-- 
+  
 ## Project Overview
 
 This project is a Power BI dashboard built using insurance claims data. The goal is to analyze claim volume, claim amount, fraud status, incident types, customer demographics, and state-level claim trends.
