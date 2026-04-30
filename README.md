@@ -1,5 +1,14 @@
 # Insurance Claims Analytics Dashboard
 
+## Project Highlights
+
+- Built an interactive Power BI dashboard using insurance claims data.
+- Loaded and validated 1,000 claim records using SQL Server Express.
+- Cleaned data in Power Query by fixing data types and creating new fields.
+- Created DAX measures for total claims, claim amount, fraud rate, and average customer age.
+- Designed 3 dashboard pages: Executive Summary, Claims Deep Dive, and Customer Insights.
+- Added SQL scripts, Power BI file, and dashboard screenshots for portfolio review.
+- 
 ## Project Overview
 
 This project is a Power BI dashboard built using insurance claims data. The goal is to analyze claim volume, claim amount, fraud status, incident types, customer demographics, and state-level claim trends.
