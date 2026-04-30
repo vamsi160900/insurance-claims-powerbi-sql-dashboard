@@ -33,10 +33,10 @@ The project uses SQL Server Express as the local database, Power BI Desktop for 
 ![Executive Summary](1.dashboard-executive-summary.png)
 
 ### 2. Claims Deep Dive
-![Claims Deep Dive](2.dashboard-claims-deep-dive.png)
+![Claims Deep Dive](3.dashboard-claims-deep-dive.png)
 
 ### 3. Customer Insights
-![Customer Insights](3.dashboard-customer-insights.png)
+![Customer Insights](2.dashboard-customer-insights.png)
 
 ### 1. Executive Summary
 
