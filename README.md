@@ -27,6 +27,16 @@ The project uses SQL Server Express as the local database, Power BI Desktop for 
 7. Built a 3-page interactive Power BI dashboard.
 
 ## Dashboard Pages
+## Dashboard Screenshots
+
+### 1. Executive Summary
+![Executive Summary](01.dashboard-executive-summary.png)
+
+### 2. Claims Deep Dive
+![Claims Deep Dive](02.dashboard-claims-deep-dive.png)
+
+### 3. Customer Insights
+![Customer Insights](03.dashboard-customer-insights.png)
 
 ### 1. Executive Summary
 
